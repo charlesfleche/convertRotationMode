@@ -24,7 +24,7 @@ To customize the sidebar tab in which the addon appears, go to the addon's prefe
 
 If you are unsure what rotation mode to use, look at the rotation modes cheat sheet!
 
-Please not these are merely suggestions, what you will actually need may vary from one rig to another or even from one animation to another.
+Please note these are merely suggestions, what you will actually need may vary from one rig to another or even from one animation to another.
 
 Note that there are two main coordinates system for bones. Blender uses Y down, so this is most likely the one you will use. But you might need to look at the X down in some cases like exporting to softwares that can only ready X down.
 
@@ -40,7 +40,7 @@ Note that there are two main coordinates system for bones. Blender uses Y down, 
   
   ![demo enable dependency](./Prez/demo_enable_dependency.gif)
 
-## Recommanded Rotation Modes:
+## Recommended Rotation Modes:
 
 <details>
 
